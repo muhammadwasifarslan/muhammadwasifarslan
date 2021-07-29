@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and programing
 - 🌱 I’m currently learning Artificaial Intelligence, Cloud Native Computing and AWS
 - 💞️ I’m looking to collaborate on any programing activity
-- 📫 How to reach me by email.
+- 📫 Reach me by email.
 
 <!---
 muhammadwasifarslan/muhammadwasifarslan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
